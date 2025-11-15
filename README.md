@@ -50,30 +50,9 @@ This repository is a **public showcase** of the Sprint project for recruiters an
 ---
 
 ## 🏗️ Architecture Overview
-Sprint/
-Sprint/
-├── App/
-│ └── SprintApp.swift
-├── Core/
-│ ├── Networking/
-│ │ ├── SupabaseManager.swift
-│ │ └── AuthManager.swift
-│ ├── Utilities/
-│ │ └── AppCoordinator.swift
-│ └── Config.swift
-├── Features/
-│ ├── Auth/
-│ │ ├── WelcomeView.swift
-│ │ ├── LoginView.swift
-│ │ └── SignUpView.swift
-│ ├── Onboarding/
-│ └── Home/
-├── Components/
-│ ├── Buttons/
-│ ├── Inputs/
-│ └── Cards/
-└── Resources/
-└── DesignSystem.swift
+<img width="640" height="622" alt="Screenshot 2025-11-14 at 5 51 27 PM" src="https://github.com/user-attachments/assets/630b8260-ca11-4c05-a99e-2af8c7535167" />
+
+
 ---
 
 ## 🧠 Tech Stack
