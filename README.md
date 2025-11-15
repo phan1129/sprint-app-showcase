@@ -43,9 +43,9 @@ This repository is a **public showcase** of the Sprint project for recruiters an
 ---
 
 ## 📱 Screens (Preview)
-
-> UI previews and screenshots coming soon.  
-(I can generate placeholder images for you if you want.)
+<img width="438" height="912" alt="Screenshot 2025-11-14 at 5 47 31 PM" src="https://github.com/user-attachments/assets/f8fc88c2-4e10-4360-99e3-0f874f98203f" />
+<img width="438" height="912" alt="Screenshot 2025-11-14 at 5 48 08 PM" src="https://github.com/user-attachments/assets/0b2a329f-e0fc-4f4f-9a11-f6dd9846d683" />
+<img width="438" height="912" alt="Screenshot 2025-11-14 at 5 48 18 PM" src="https://github.com/user-attachments/assets/6d9bb01f-2078-4819-b831-91a44173e445" />
 
 ---
 
