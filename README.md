@@ -1,5 +1,5 @@
 
-# 🏁 Sprint – AI-Powered Goal Execution App (Showcase Overview)
+# 🏁 Sprint – AI-Powered Goal Execution App
 
 > **Transform big goals into actionable weekly plans with AI-powered task breakdown and intelligent scheduling.**
 
