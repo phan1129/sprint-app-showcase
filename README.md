@@ -73,7 +73,6 @@ Sprint/
 │   └── Cards/
 └── Resources/
     └── DesignSystem.swift
-
 ---
 
 ## 🧠 Tech Stack
